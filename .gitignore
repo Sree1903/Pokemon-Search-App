@@ -4,3 +4,6 @@ node_modules/
 # Ignore build directories 
 dist/ 
 build/
+
+#Tailwind generated CSS
+src/output.css
